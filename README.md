@@ -147,6 +147,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{risktraf2026,
   title     = {RiskTraf: Risk-Extrapolated Residual Learning for Multi-Variate Traffic Flow Prediction},
+  author    = {Wang, Guangyu and Liu, Zhidan},
   booktitle = {Proceedings of the 35th ACM International Conference on Information and Knowledge Management (CIKM '26)},
   year      = {2026},
   address   = {Rome, Italy},
